@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Charles Leclerc</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background-color: #2E2E2E;
+			color: #FFFFFF;
+			padding: 20px;
+			text-align: center;
+		}
+		h1 {
+			margin: 0;
+		}
+		nav {
+			background-color: #4CAF50;
+			overflow: hidden;
+		}
+		nav a {
+			float: left;
+			display: block;
+			color: #FFFFFF;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+		nav a:hover {
+			background-color: #3e8e41;
+		}
+		section {
+			padding: 20px;
+			text-align: justify;
+			line-height: 1.5;
+		}
+		footer {
+			background-color: #2E2E2E;
+			color: #FFFFFF;
+			padding: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Charles Leclerc</h1>
+		<p>F1 Driver</p>
+	</header>
+	<nav>
+		<a href="#about">About</a>
+		<a href="#career">Career</a>
+		<a href="#media">Media</a>
+	</nav>
+	<section id="about">
+		<h2>About Charles Leclerc</h2>
+		<p>Charles Leclerc is a Monegasque racing driver, born on October 16, 1997. He currently drives for the Ferrari Formula One team. Charles started his career in karting and won several championships before moving to single-seaters.</p>
+		<p>In 2016, Charles won the GP3 Series championship, and in 2017, he won the FIA Formula 2 Championship. Charles made his Formula One debut with Sauber in 2018, and he moved to Ferrari for the 2019 season.</p>
+	</section>
+	<section id="career">
+		<h2>Career</h2>
+		<ul>
+			<li>2018: Sauber F1 Team</li>
+			<li>2019-2021: Scuderia Ferrari</li>
+			<li>2022-Present: Scuderia Ferrari</li>
+		</ul>
+		<p>Charles has achieved several podium finishes and pole positions in his Formula One career. He won his first Grand Prix at the 2019 Belgian Grand Prix.</p>
+	</section>
+	<section id="media">
+		<h2>Media</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/T1gzoI0x8yA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p>Video: Charles Leclerc - 2021 F1 Season Highlights</p>
+	</section>
+	<footer>
+		<p>© 
